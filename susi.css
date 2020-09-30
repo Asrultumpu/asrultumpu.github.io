@@ -1,0 +1,42 @@
+.navbar {
+    background-color: rgba(248, 61, 139, 0.966);
+    width: 100%;
+z-index: 2;
+position: fixed;
+}
+
+.header {
+    background-color: violet;
+    height: 900px;
+    width: 100%;
+}
+.Profil {
+    padding-top: 70px;
+}
+.Profil img {
+    width: 40%;
+    border: 3px solid violet;  
+}
+.hrku2 {
+border: 1px solid grey;
+width: 80%;
+
+}
+
+.hrku {
+    border: 1px solid gray;
+}
+.container1 {
+height: 300%;
+width: 80%;
+background-color: hotpink;
+margin-left: 10%;
+}
+.container2 {
+    height: 20px;
+    margin-top: -30px;
+    text-align: center;
+    text-size-adjust: 8px;
+    margin-top: 30px;
+}
+
